@@ -1,0 +1,215 @@
+Arrays & Strings
+
+Two Sum
+
+Remove Duplicates from Sorted Array
+
+Contains Duplicate
+
+Plus One
+
+Move Zeroes
+
+Rotate Array
+
+Valid Anagram
+
+First Unique Character in a String
+
+Reverse String
+
+Reverse Integer
+
+Palindrome Number
+
+Implement strStr() (i.e., needle-haystack)
+
+Longest Common Prefix
+
+Add Binary
+
+Count and Say
+
+Third Maximum Number
+
+Squares of a Sorted Array
+
+Sort Array By Parity
+
+Search Insert Position
+
+Valid Palindrome
+
+Linked Lists
+
+Merge Two Sorted Lists
+
+Reverse Linked List
+
+Linked List Cycle
+
+Remove Linked List Elements
+
+Middle of the Linked List
+
+Intersection of Two Linked Lists
+
+Delete Node in a Linked List
+
+Convert Binary Number in a Linked List to Integer
+
+Remove Duplicates from Sorted List
+
+Palindrome Linked List
+
+Trees & Graphs (Basics)
+
+Maximum Depth of Binary Tree
+
+Symmetric Tree
+
+Invert Binary Tree
+
+Path Sum
+
+Balanced Binary Tree
+
+Same Tree
+
+Convert Sorted Array to Binary Search Tree
+
+Minimum Depth of Binary Tree
+
+Binary Tree Paths
+
+Binary Tree Right Side View
+
+Math / Bit Manipulation / Number Theory
+
+Add Digits
+
+Power of Two
+
+Roman to Integer
+
+Fizz Buzz
+
+Excel Sheet Column Number
+
+Happy Number
+
+Missing Number
+
+Hamming Distance
+
+Reverse Bits
+
+Complement of Base 10 Integer
+
+Dynamic Programming (Simple)
+
+Climbing Stairs
+
+Maximum Subarray
+
+House Robber
+
+Min Cost Climbing Stairs
+
+Fibonacci Number
+
+Pascal’s Triangle
+
+Unique Paths
+
+Best Time to Buy and Sell Stock
+
+Minimum Falling Path Sum
+
+Sum of Even Numbers After Queries
+
+Searching & Sorting
+
+Binary Search
+
+Find Peak Element
+
+Search in Rotated Sorted Array
+
+Intersection of Two Arrays II
+
+Merge Intervals
+
+Height Checker
+
+Sort Colors
+
+Move Zeroes (again for practice)
+
+Contains Duplicate II
+
+Valid Mountain Array
+
+Hashmap / Set / Misc Data Structures
+
+First Unique Character in a String (again)
+
+Valid Parentheses
+
+Uncommon Words from Two Sentences
+
+Verifying an Alien Dictionary
+
+N-Repeated Element in Size 2N Array
+
+Count Negative Numbers in a Sorted Matrix
+
+Check If N and Its Double Exist
+
+Find Lucky Integer in an Array
+
+Minimum Limit of Balls in a Bag
+
+Range Sum of Sorted Subarray Sums
+
+Additional “Easy” Problems / Practice Extras
+
+Binary Number with Alternating Bits
+
+Complement of Base 10 Integer (again)
+
+Decode XORed Array
+
+Count Odd Numbers in an Interval Range
+
+Make Sum Divisible by P
+
+Reformat Date
+
+Average Time of Process per Machine
+
+Find the Quiet Students in All Exams
+
+Defuse the Bomb
+
+Minimum Deletion Cost to Avoid Repeating Letters
+
+Shuffle String
+
+Smallest String With A Given Numeric Value
+
+Number of Days Between Two Dates
+
+Find Users With Valid E-Mails
+
+Minimum Initial Energy to Finish Tasks
+
+Make The String Great
+
+Richest Customer Wealth
+
+Goal Parser Interpretation
+
+Count of Matches in Tournament
+
+Check If Array Is Sorted and Rotated
